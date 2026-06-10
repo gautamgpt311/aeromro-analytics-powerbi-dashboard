@@ -85,4 +85,4 @@ Vendor scorecard ranking all 15 vendors by on-time delivery percentage. Total sp
 
 ## Related Project
 
-🔍 [SQL Analysis Repository]
+🔍 [SQL Analysis Repository](https://github.com/gautamgpt311/aeromro-sql-analysis)
